@@ -8,4 +8,12 @@ The purpose for this project was to analyze Covid Data from [Our World in Data](
 
 Data Source:
 
-**
+  * Our World in Data Covid CSV file
+
+
+Software:
+
+  * DBDIAGRAM.IO to create schemas for tables
+  * PostgreSQL and PgAdmin
+  * Tableau Public
+  
