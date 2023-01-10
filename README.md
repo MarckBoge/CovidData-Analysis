@@ -8,7 +8,11 @@ The purpose of this project was to analyze Covid data from Our World in Data in 
 - Filter data by date range and country
 - Compare trends over time
 
+
+## Dashboard
+
 ![Covid Dashboard](https://user-images.githubusercontent.com/90155651/211450787-7d7f1cd5-4811-4585-a6c7-a9007d85cf0f.png)
+
 
 
 
