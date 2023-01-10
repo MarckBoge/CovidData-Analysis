@@ -12,7 +12,7 @@ The purpose of this project was to analyze Covid data from Our World in Data in 
 
 
 
-[Live Demo]https://public.tableau.com/views/CovidDashboard_16732440855680/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+[[Live Demo]](https://public.tableau.com/views/CovidDashboard_16732440855680/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Dependencies
 
