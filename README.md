@@ -8,9 +8,9 @@ The purpose of this project was to analyze Covid data from Our World in Data in 
 - Filter data by date range and country
 - Compare trends over time
 
-![Screenshot of dashboard](![Covid Dashboard](https://user-images.githubusercontent.com/90155651/211450549-6841af6f-824e-42b8-9f3b-93597c7176f6.png))
+(https://user-images.githubusercontent.com/90155651/211450549-6841af6f-824e-42b8-9f3b-93597c7176f6.png)
 
-[Live demo]([https://demo.com](https://public.tableau.com/views/CovidDashboard_16732440855680/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link))
+[[Live demo](https://demo.com](https://public.tableau.com/views/CovidDashboard_16732440855680/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)]
 
 ## Dependencies
 
